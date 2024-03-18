@@ -50,7 +50,7 @@
 <img width="180" src="https://user-images.githubusercontent.com/1445225/123251478-d50b7d80-d51d-11eb-80e4-01e18212fc4d.png" />
 
 ## Chrome 插件
-a
+
 可在[源码仓库](https://github.com/jaywcjlove/oscnews)预览效果，[Github下载 crx 文件安装](https://github.com/jaywcjlove/oscnews/releases) 或者[开源中国下载 crx 文件安装](https://gitee.com/jaywcjlove/oscnews/releases) 也可通过 Chrome Web Store 下载：
 
 [![Chrome Web Store 下载](http://jaywcjlove.github.io/sb/download/chrome-web-store.svg)](https://chrome.google.com/webstore/detail/oscnews/iheapfheanfjcemgneblljhaebonakbg)
